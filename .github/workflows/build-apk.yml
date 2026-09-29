@@ -49,4 +49,3 @@ jobs:
           name: jrkg-learning-app-release
           path: android/app/build/outputs/apk/release/app-release.apk
           retention-days: 7
-          retention-days: 7
